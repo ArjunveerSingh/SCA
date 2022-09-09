@@ -1,0 +1,28 @@
+body{
+   background-color: crimson;
+}
+
+.hd{
+    background-color: aqua;
+    color: black;
+}
+
+p{
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 10px;
+}
+
+#start{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+#f{
+    bottom: 0px;
+    width: 100%;
+    font-size: 5px;
+    line-height: 2px;
+    text-shadow: 5px 5px 5px black;
+}
